@@ -77,6 +77,3 @@ We identified two statistically significant breakpoints:
 - [RU.NI: VAR impact study](https://www.runi.ac.il/media/lbinqckt/2024-football-referees-issue-more-yellow-cards-following-var-interventions.pdf)
 - [Premier League Tactical Review](https://www.premierleague.com/news/693455)
 
----
-
-## 📦 Repo Structure
