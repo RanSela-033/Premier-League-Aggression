@@ -124,7 +124,3 @@ To test referee-driven aggression forecasting, we re-ran each model with referee
 - Traditional models captured general trends, but **LSTM revealed deeper patterns** and shifts.
 - Referee behavior is **not just noise** — it's predictive.
 - Aggression spiked after VAR and after the 2022 World Cup — **football is evolving**, and so is the data.
-
-> _“Football may be 90% chaos. But with the right models, we specialize in the 10% that matters.”_
-
----
