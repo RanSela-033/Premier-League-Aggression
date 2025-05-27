@@ -1,4 +1,6 @@
-# ⚽ Modeling Aggression in the Premier League
+# Premier-League-Aggression
+ 
+⚽ Modeling Aggression in the Premier League
 
 **Final Project — Advanced Time Series Analysis**  
 **Technion – Faculty of Data Science and Engineering**  
